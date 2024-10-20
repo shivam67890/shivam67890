@@ -1,4 +1,4 @@
-# 👋 Hello there! I am Shivam
+# 👋 Hello there! I am Shivam.
 
 <table>
   <tr>
